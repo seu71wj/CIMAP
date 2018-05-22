@@ -1,5 +1,5 @@
 # CIMAP
-KDD'18 (Class-IMbalance Aware Partial Label Learning)
+Class-IMbalance Aware Partial Label Learning
 ***************************************************************************
 MATLAB toolbox for the Class-IMbalance Aware Partial label learning algorithm CIMAP.
 
